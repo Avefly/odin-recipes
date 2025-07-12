@@ -1,0 +1,33 @@
+body {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: rgb(61, 13, 61);
+    font-family: monospace, 'Courier New', Courier, serif;
+    text-align: center;
+    background-color: rgb(203, 245, 245);
+}
+
+a {
+    font-family: monospace, serif;
+    color:#8e1e8e;
+}
+
+h2 {
+    color: skyblue;
+    text-align: left;
+    font-family: monospace;
+}
+
+li {
+    color: hsl(274, 90%, 16%);
+}
+
+p {
+    font-family: monospace;
+}
+
+img {
+    margin: 0 auto;
+}
